@@ -2,11 +2,10 @@
   "expo": {
     "name": "checklistApp",
     "slug": "checklistApp",
-    "scheme": "checklistApp",
+    "scheme": "checklistapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
@@ -26,7 +25,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png",
+      "favicon": "./assets/imgaes/favicon.png",
       "bundler": "metro"
     },
     "plugins": [
